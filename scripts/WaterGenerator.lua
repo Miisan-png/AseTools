@@ -1,3 +1,6 @@
+-- Procedurally generate water (old script tho haha)
+-- Script : Miisan
+
 if not app.activeSprite then
   app.alert("No sprite is active!")
   return
